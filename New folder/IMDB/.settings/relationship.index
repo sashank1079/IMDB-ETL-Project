@@ -1,0 +1,1030 @@
+[ {
+  "baseItem" : {
+    "id" : "_8xdlUJKAEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_name_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - name_basics_stg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9CJgwI_PEe6IsadS5-rvwQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tXKcUI_UEe6IsadS5-rvwQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_akas",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tXKcUI_UEe6IsadS5-rvwQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_A_73oIkPEe6C_q5mzLZDWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KKPdUIkKEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zt_dQIkKEe6C_q5mzLZDWQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_BODO4JDgEe6jSKGRzHGoWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - imdb_title_crew",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - imdb_title_principals",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - imdb_title_ratings",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DVuFwJF_Ee6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - person_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_principals",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DWRyoJKAEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DgaAMJKaEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - fact_movie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - region_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_akas",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DpRwcI5JEe6D8aI9p1Grjw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - imdb_name_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Fv0tsJGgEe6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - date_dimension",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - movie_revenuefinal",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Igvm4JGEEe6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - genre_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics_genres",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_J32OsJC-Ee6jSKGRzHGoWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_K1KUIJKCEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KuN2AJMvEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "IMDB:_8xdlUJKAEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_DWRyoJKAEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_DgaAMJKaEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_K1KUIJKCEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_WPOV8JJ9Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_cwzyoJKIEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_fRcScJJ_Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_i8bd0JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_jxergJL1Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_k5tEAJKWEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "IMDB:_zqJTIJKOEe6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_L4o_kJCvEe6jSKGRzHGoWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_ratings",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - movie_revenuefinal",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - title_basics_stg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MbSrgJFxEe6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - person_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_writers_frm_titlecrew",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_TZ4t8JF0Ee6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - person_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_directors_frm_titlecrew",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_UhRRIJGSEe6-v-KvacN3eg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - movie_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - region_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_akas",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WPOV8JJ9Ee6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_principals",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cwzyoJKIEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - title_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_ratings",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - movie_revenuefinal",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_d2Us0I-hEe6Qgqt0RnFXeQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - title_basics_normalized",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_dVBQUIkvEe6oGe_xSVodTw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wc0yAIkLEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MNaRsImIEe6t-4cn4gX0qA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_eg24oInwEe6jHdkPcGlmig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - merged_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_f3WTcImNEe6t-4cn4gX0qA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_fRcScJJ_Ee6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tXKcUI_UEe6IsadS5-rvwQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_akas",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tXKcUI_UEe6IsadS5-rvwQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gWvMUIkYEe6C_q5mzLZDWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_i8bd0JJ8Ee6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - merged_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iVPJMInwEe6jHdkPcGlmig",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_rbs-cInwEe6jHdkPcGlmig",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - name_basics_stg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jxergJL1Ee6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - date_dimension",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - fact_movie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - tsvrevenuedb",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_k5tEAJKWEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - fact_movie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - genre_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_basics_genres",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_ratings",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - title_basics_normalized",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_tPnRsI5GEe6D8aI9p1Grjw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - movie_revenuefinal",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_tsDqcJAlEe6jSKGRzHGoWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vJY2wI5GEe6D8aI9p1Grjw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - imdb_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - title_basics_normalized",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - title_basics_stg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wnvqIJDCEe6jSKGRzHGoWQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_name_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - name_basics_stg",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xlEvkI_GEe6Qgqt0RnFXeQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_fVlPIIkJEe6C_q5mzLZDWQ - merged_title_basics",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zqJTIJKOEe6_WIiIWRIzPA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ZHFpIJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "__neF8JJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - crew_dim_scd",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - dim_profession",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_441DsJJ8Ee6_WIiIWRIzPA - fact_movie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_R-43YJD3Ee6jSKGRzHGoWQ - stg_title_principals",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

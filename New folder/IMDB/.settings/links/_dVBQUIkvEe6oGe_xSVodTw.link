@@ -1,0 +1,39 @@
+{
+  "itemId" : "_dVBQUIkvEe6oGe_xSVodTw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_wc0yAIkLEe6C_q5mzLZDWQ",
+    "parameterList" : [ {
+      "id" : "_wdvYAYkLEe6C_q5mzLZDWQ",
+      "name" : "title_basics_FilePath"
+    }, {
+      "id" : "_wdvYAokLEe6C_q5mzLZDWQ",
+      "name" : "title_basics_Encoding"
+    }, {
+      "id" : "_wdvYA4kLEe6C_q5mzLZDWQ",
+      "name" : "title_basics_XPathQuery"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "parameterList" : [ {
+      "id" : "_wP73dYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_AdditionalParams"
+    }, {
+      "id" : "_wP73dIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Server"
+    }, {
+      "id" : "_wP73cokJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Password"
+    }, {
+      "id" : "_wP73c4kJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Database"
+    }, {
+      "id" : "_wP73cYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Login"
+    }, {
+      "id" : "_wP73cIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Port"
+    } ]
+  } ]
+}
