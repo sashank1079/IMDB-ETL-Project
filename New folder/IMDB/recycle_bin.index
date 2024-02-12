@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/imdb1</deletedFolders>
+  <deletedFolders>process/imdb1/bridge_loading</deletedFolders>
+  <deletedFolders>process/imdb1/dim_loading</deletedFolders>
+  <deletedFolders>process/imdb1/fact_loading</deletedFolders>
+  <deletedFolders>process/imdb1/staging</deletedFolders>
+  <deletedItems id="_eg24oInwEe6jHdkPcGlmig" path="dim_loading" type="PROCESS"/>
+  <deletedItems id="_iVPJMInwEe6jHdkPcGlmig" path="dim_loading" type="PROCESS"/>
+  <deletedItems id="_Igvm4JGEEe6-v-KvacN3eg" path="imdb1/bridge_loading" type="PROCESS"/>
+  <deletedItems id="_UhRRIJGSEe6-v-KvacN3eg" path="imdb1/bridge_loading" type="PROCESS"/>
+  <deletedItems id="_9CJgwI_PEe6IsadS5-rvwQ" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_DVuFwJF_Ee6-v-KvacN3eg" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_J32OsJC-Ee6jSKGRzHGoWQ" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_MbSrgJFxEe6-v-KvacN3eg" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_TZ4t8JF0Ee6-v-KvacN3eg" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_f3WTcImNEe6t-4cn4gX0qA" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_wnvqIJDCEe6jSKGRzHGoWQ" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_xlEvkI_GEe6Qgqt0RnFXeQ" path="imdb1/dim_loading" type="PROCESS"/>
+  <deletedItems id="_Fv0tsJGgEe6-v-KvacN3eg" path="imdb1/fact_loading" type="PROCESS"/>
+  <deletedItems id="_L4o_kJCvEe6jSKGRzHGoWQ" path="imdb1/fact_loading" type="PROCESS"/>
+  <deletedItems id="_A_73oIkPEe6C_q5mzLZDWQ" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_BODO4JDgEe6jSKGRzHGoWQ" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_DpRwcI5JEe6D8aI9p1Grjw" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_NDLOQJGaEe6-v-KvacN3eg" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_d2Us0I-hEe6Qgqt0RnFXeQ" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_dVBQUIkvEe6oGe_xSVodTw" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_gWvMUIkYEe6C_q5mzLZDWQ" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_tPnRsI5GEe6D8aI9p1Grjw" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_tsDqcJAlEe6jSKGRzHGoWQ" path="imdb1/staging" type="PROCESS"/>
+  <deletedItems id="_vJY2wI5GEe6D8aI9p1Grjw" path="imdb1/staging" type="PROCESS"/>
+</recyclebin:RecycleBin>

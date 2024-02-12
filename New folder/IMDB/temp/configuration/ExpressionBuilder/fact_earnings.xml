@@ -1,0 +1,34 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="TalendDate.getCurrentDate()">
+  <variables name="row1.tconst" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.title" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.Rank" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Gross" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1._YD" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row1._LW" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row1.Theaters" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Per_Theater" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Total_Gross" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Days" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.DI_Filename" value="null" talendType="id_String"/>
+  <variables name="row1.DI_CreatedDate" value="null" talendType="id_Date"/>
+  <variables name="row2.movie_id" value="0" talendType="id_Integer"/>
+  <variables name="row2.tconst" value="null" talendType="id_String"/>
+  <variables name="row2.run_time" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.rating" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="row2.no_of_votes" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.title_sk" value="0" talendType="id_Integer"/>
+  <variables name="row2.WorldWideGross" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.release_year" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.DI_CreatedDate" value="null" talendType="id_Date"/>
+  <variables name="row2.DI_JobID" value="null" talendType="id_String"/>
+  <variables name="row3.datesk" value="0" talendType="id_Integer"/>
+  <variables name="row3.date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row3.Day" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.Month_Str" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Season" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Year" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.DI_CreatedDate" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row3.DI_JobID" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>

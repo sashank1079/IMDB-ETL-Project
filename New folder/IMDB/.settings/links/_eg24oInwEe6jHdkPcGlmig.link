@@ -1,0 +1,70 @@
+{
+  "itemId" : "_eg24oInwEe6jHdkPcGlmig",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "parameterList" : [ {
+      "id" : "_wP73cIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Port"
+    }, {
+      "id" : "_wP73cYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Login"
+    }, {
+      "id" : "_wP73cokJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Password"
+    }, {
+      "id" : "_wP73c4kJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Database"
+    }, {
+      "id" : "_wP73dIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Server"
+    }, {
+      "id" : "_wP73dYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "prod",
+    "repoId" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "parameterList" : [ {
+      "id" : "_wP73d4kJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Port"
+    }, {
+      "id" : "_wP73eIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Login"
+    }, {
+      "id" : "_wP8egIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Password"
+    }, {
+      "id" : "_wP8egYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Database"
+    }, {
+      "id" : "_wP8egokJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Server"
+    }, {
+      "id" : "_wP8eg4kJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "test",
+    "repoId" : "_wOwywIkJEe6C_q5mzLZDWQ",
+    "parameterList" : [ {
+      "id" : "_wP8ehYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Port"
+    }, {
+      "id" : "_wP8ehokJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Login"
+    }, {
+      "id" : "_wP8eh4kJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Password"
+    }, {
+      "id" : "_wP8eiIkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Database"
+    }, {
+      "id" : "_wP8eiYkJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_Server"
+    }, {
+      "id" : "_wP8eiokJEe6C_q5mzLZDWQ",
+      "name" : "mysql_imdb_AdditionalParams"
+    } ]
+  } ]
+}
